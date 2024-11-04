@@ -8,7 +8,7 @@
 
   .a, a:link, a:visited {
     color: aquamarine;
-    font-size: 14px;
+    font-size: 16px;
   }
 
   body {
@@ -37,4 +37,9 @@
   font-family: Verdana;
   font-weight: 300;
   font-size: 42px;
+}
+
+#copyright {
+  text-align: right;
+  color: gray;
 }
